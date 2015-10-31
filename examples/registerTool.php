@@ -3,16 +3,16 @@
 include_once("../src/snapchat.php");
 
 
-echo "\n\nUsername: ";
+echo "\n\nUsername: tgrizzle1738 ";
 $username = trim(fgets(STDIN));
 
-echo "\nPassword: ";
+echo "\nPassword: tmoney034 ";
 $password = trim(fgets(STDIN));
 
-echo "\nEmail: ";
+echo "\nEmail: tgrizzle1738@gmail.com ";
 $email = trim(fgets(STDIN));
 
-echo "\nBirthday (yyyy-mm-dd): ";
+echo "\nBirthday (yyyy-mm-dd): 10-08-1991 ";
 $birthday = trim(fgets(STDIN));
 
 echo "\nGmail address: ";
